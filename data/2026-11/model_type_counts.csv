@@ -1,0 +1,11 @@
+Model Type,Count
+Image-Text-to-Text,11
+Text Generation,4
+Text-to-Image,4
+Text-to-Speech,2
+Image-to-Video,1
+Audio-to-Audio,1
+Image-to-3D,1
+Image-to-Image,1
+Mask Generation,1
+Image-Text-to-Video,1
